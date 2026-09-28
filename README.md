@@ -4,7 +4,7 @@
 
 **A data-driven platform that combines a web interface with backend data processing. This repository contains its Java backend building blocks: 31 tested programs for input, calculation, decision logic, and output.**
 
-☕ **Java 8+** &nbsp;|&nbsp; 📄 &nbsp;|&nbsp; 📏  &nbsp;|&nbsp; 
+
 
 ---
 
